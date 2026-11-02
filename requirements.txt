@@ -1,2 +1,9 @@
-scikit-learn
+
+import csv
+import random
 from collections import Counter
+import time
+
+Random seed "21"
+
+car.data file
